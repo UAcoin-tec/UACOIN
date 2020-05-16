@@ -1,0 +1,15 @@
+
+
+{
+	"header": "api",
+	"msg": "0000",
+	"member": {
+		"id": "kreskres@naver.com",
+		"name": "?��?��?��",
+		"level": "2",
+		"is_login": true,
+		"wallet": "mN5gTaSZk1o6nkaBna4LJUS4RP6CSdNrmY",
+		"date": "2018-02-06 14:43:24",
+		"coin_img": "http:\/\/uacoin.net\/data\/member\/kreskres.png"
+	}
+}
